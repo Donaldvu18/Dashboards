@@ -1,2 +1,2 @@
 # dashboards
-sample dashboard from previous projects
+Sample dashboards from previous projects, all produced in Tableau.
